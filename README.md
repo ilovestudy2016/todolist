@@ -1,4 +1,5 @@
 # todolist
+<<<<<<< HEAD
 
 > a todolist demo
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vue_todolist
+>>>>>>> 9ec7122ef8b6fa7eb12a183d525c11cd4ab95f57
